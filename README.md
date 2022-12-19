@@ -26,7 +26,7 @@ Implemented tabbed section.
 Implemented carusel on button press, left key and right key press, on dot click with active slide indicator.
 
 ## See live page
-[visit the page]()
+[visit the page](https://learnfl.github.io/proj-web-advanced-dom-manipulation/)
 
 ## Screenshots
 ![Screen Shot 2022-12-19 at 5 05 33 PM](https://user-images.githubusercontent.com/86169204/208534200-1f921995-3cd7-48a6-9ee6-c9579ade510e.png)
