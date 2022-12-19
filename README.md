@@ -4,7 +4,7 @@
 The purspose of this project was to practice JavaScript advanced dom manipulation. I created well loved features using JS from scratch.
 
 ## Process
-JavaScript, HTML, CSS. DOM manipulation using JS, including event bubbling and DOM traversing. Inspired and challenged by Jonas Schmedtmann. None of the pictures belong to me.
+JavaScript, HTML, CSS. DOM manipulation using JS, including event bubbling and DOM traversing, event deligation, intersection observer api. Inspired and challenged by Jonas Schmedtmann. None of the pictures belong to me.
 
 ## Functionality
 #### NAV
@@ -14,7 +14,7 @@ Fade out effect. Sticky nav on scroll.
 Smooth scroll effect.
 
 #### SECTIONS
-Smooth scroll into view effect.
+Reveal on scroll.
 
 #### IMAGES
 Lazy loading to improve performance.
