@@ -11,6 +11,7 @@ JavaScript, HTML, CSS. DOM manipulation using JS including:
 4) DOM traversing.
 5) Event delegation.
 6) Intersection observer api. 
+7) Async (deferred) JavaScript loading.
  
 Inspired and challenged by Jonas Schmedtmann. None of the pictures belong to me.
 
