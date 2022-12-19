@@ -9,7 +9,7 @@ JavaScript, HTML, CSS. DOM manipulation using JS including:
 2) Event propagation.
 3) Passing arguments to event handlers.
 4) DOM traversing.
-5) Event deligation.
+5) Event delegation.
 6) Intersection observer api. 
  
 Inspired and challenged by Jonas Schmedtmann. None of the pictures belong to me.
@@ -28,10 +28,10 @@ Reveal on scroll.
 Lazy loading to improve performance.
 
 #### TABS
-Implemented tabbed section.
+Implemented tabbed component.
 
 #### SLIDE a.k.a CARUSELE
-Implemented carusel on button press, left key and right key press, on dot click with active slide indicator.
+Implemented carusel component on button press, left key and right key press, on dot click with active slide indicator.
 
 ## See live page
 [visit the page](https://learnfl.github.io/proj-web-advanced-dom-manipulation/)
