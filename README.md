@@ -4,7 +4,15 @@
 The purspose of this project was to practice JavaScript advanced dom manipulation. I created well loved features using JS from scratch.
 
 ## Process
-JavaScript, HTML, CSS. DOM manipulation using JS, including event bubbling and DOM traversing, event deligation, intersection observer api. Inspired and challenged by Jonas Schmedtmann. None of the pictures belong to me.
+JavaScript, HTML, CSS. DOM manipulation using JS including:
+1) Event bubbling.
+2) Event propagation.
+3) Passing arguments to event handlers.
+4) DOM traversing.
+5) Event deligation.
+6) Intersection observer api. 
+ 
+Inspired and challenged by Jonas Schmedtmann. None of the pictures belong to me.
 
 ## Functionality
 #### NAV
